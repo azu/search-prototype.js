@@ -17,5 +17,7 @@ const cli = meow(`
  ...
  }
  */
-
+if(cli.input.length === 0) {
+    cli.showHelp(1);
+}
 searchPrototype(cli.input[0], cli.flags);

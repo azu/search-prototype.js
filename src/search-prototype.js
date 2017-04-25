@@ -1,6 +1,7 @@
 // MIT © 2017 azu
 "use strict";
 const grasp = require("grasp");
+const path = require("path");
 const searchIndex = require("./create-search-index").createSearchIndex({
     aggressive: true
 });
@@ -23,6 +24,7 @@ const runGrasp = ({ queryType, query, filePath }, callback) => {
 };
 //
 module.exports = function searchPrototypeJS(filePath) {
+    filePath = path.resolve(process.cwd(), filePath);
     searchIndex.forEach(result => {
         const eQueries = result.eQueries || [];
         eQueries.forEach(query => {
@@ -45,4 +47,4 @@ module.exports = function searchPrototypeJS(filePath) {
             });
         });
     });
-}
+};
