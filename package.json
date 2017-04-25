@@ -10,7 +10,7 @@
     "src/"
   ],
   "name": "search-prototype.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Search usage of prototype.js in your codes.",
   "main": "lib/search-prototype.js",
   "bin": {
