@@ -7,6 +7,14 @@ We can found the code that use [Prototype.js](http://prototypejs.org/ "Prototype
 This tool is based on [grasp](http://www.graspjs.com/ "grasp") that can search the code by AST.
 It can search the code exactly.
 
+## Search prototype.js API
+
+This tool use [prototype.js's API reference](http://api.prototypejs.org/) as search index.
+
+- <http://api.prototypejs.org/javascripts/pdoc/item_index.js>
+
+This tool can found the prototype.js extensible API like `Function#curry` in your code.
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
@@ -24,7 +32,7 @@ Install with [npm](https://www.npmjs.com/):
 ## Example
 
 ```
-> search-prototype.j test/search-prototype-test.js
+> search-prototype.js test/search-prototype-test.js
 
 # Found "call[callee=#$]"
 2:    var item = $('sample');
