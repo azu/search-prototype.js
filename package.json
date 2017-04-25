@@ -1,0 +1,41 @@
+{
+  "directories": {
+    "test": "test"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "name": "search-prototype.js",
+  "version": "1.0.0",
+  "description": "Search usage of prototype.js in your codes.",
+  "main": "lib/search-prototype.js",
+  "bin": {
+    "search-prototype.js": "./bin/cmd.js"
+  },
+  "scripts": {
+    "test": "node test/search-prototype-test.js"
+  },
+  "keywords": [
+    "prototype.js",
+    "search",
+    "find",
+    "refactoring",
+    "ast"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/search-prototype.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azu/search-prototype.js/issues"
+  },
+  "homepage": "https://github.com/azu/search-prototype.js",
+  "dependencies": {
+    "grasp": "^0.5.0",
+    "meow": "^3.7.0"
+  }
+}

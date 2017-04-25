@@ -1,0 +1,2332 @@
+{
+  "Ajax": {
+    "name": "Ajax",
+    "type": "namespace",
+    "path": "ajax/Ajax/"
+  },
+  "Ajax.activeRequestCount": {
+    "name": "Ajax.activeRequestCount",
+    "type": "class property",
+    "path": "ajax/Ajax/activeRequestCount/"
+  },
+  "Ajax.PeriodicalUpdater": {
+    "name": "Ajax.PeriodicalUpdater",
+    "type": "class",
+    "path": "ajax/Ajax/PeriodicalUpdater/"
+  },
+  "new Ajax.PeriodicalUpdater": {
+    "name": "new Ajax.PeriodicalUpdater",
+    "type": "constructor",
+    "path": "ajax/Ajax/PeriodicalUpdater/new/"
+  },
+  "Ajax.PeriodicalUpdater#start": {
+    "name": "Ajax.PeriodicalUpdater#start",
+    "type": "instance method",
+    "path": "ajax/Ajax/PeriodicalUpdater/prototype/start/"
+  },
+  "Ajax.PeriodicalUpdater#stop": {
+    "name": "Ajax.PeriodicalUpdater#stop",
+    "type": "instance method",
+    "path": "ajax/Ajax/PeriodicalUpdater/prototype/stop/"
+  },
+  "Ajax.Request": {
+    "name": "Ajax.Request",
+    "type": "class",
+    "path": "ajax/Ajax/Request/"
+  },
+  "new Ajax.Request": {
+    "name": "new Ajax.Request",
+    "type": "constructor",
+    "path": "ajax/Ajax/Request/new/"
+  },
+  "Ajax.Request#success": {
+    "name": "Ajax.Request#success",
+    "type": "instance method",
+    "path": "ajax/Ajax/Request/prototype/success/"
+  },
+  "Ajax.Request#getHeader": {
+    "name": "Ajax.Request#getHeader",
+    "type": "instance method",
+    "path": "ajax/Ajax/Request/prototype/getHeader/"
+  },
+  "Ajax.Responders": {
+    "name": "Ajax.Responders",
+    "type": "namespace",
+    "path": "ajax/Ajax/Responders/"
+  },
+  "Ajax.Responders.register": {
+    "name": "Ajax.Responders.register",
+    "type": "class method",
+    "path": "ajax/Ajax/Responders/register/"
+  },
+  "Ajax.Responders.unregister": {
+    "name": "Ajax.Responders.unregister",
+    "type": "class method",
+    "path": "ajax/Ajax/Responders/unregister/"
+  },
+  "Ajax.Response": {
+    "name": "Ajax.Response",
+    "type": "class",
+    "path": "ajax/Ajax/Response/"
+  },
+  "Ajax.Response#readyState": {
+    "name": "Ajax.Response#readyState",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/readyState/"
+  },
+  "Ajax.Response#responseText": {
+    "name": "Ajax.Response#responseText",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/responseText/"
+  },
+  "Ajax.Response#responseXML": {
+    "name": "Ajax.Response#responseXML",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/responseXML/"
+  },
+  "Ajax.Response#responseJSON": {
+    "name": "Ajax.Response#responseJSON",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/responseJSON/"
+  },
+  "Ajax.Response#headerJSON": {
+    "name": "Ajax.Response#headerJSON",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/headerJSON/"
+  },
+  "Ajax.Response#request": {
+    "name": "Ajax.Response#request",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/request/"
+  },
+  "Ajax.Response#transport": {
+    "name": "Ajax.Response#transport",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/transport/"
+  },
+  "Ajax.Response#status": {
+    "name": "Ajax.Response#status",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/status/"
+  },
+  "Ajax.Response#statusText": {
+    "name": "Ajax.Response#statusText",
+    "type": "instance property",
+    "path": "ajax/Ajax/Response/prototype/statusText/"
+  },
+  "Ajax.Response#getHeader": {
+    "name": "Ajax.Response#getHeader",
+    "type": "instance method",
+    "path": "ajax/Ajax/Response/prototype/getHeader/"
+  },
+  "Ajax.Response#getAllHeaders": {
+    "name": "Ajax.Response#getAllHeaders",
+    "type": "instance method",
+    "path": "ajax/Ajax/Response/prototype/getAllHeaders/"
+  },
+  "Ajax.Response#getResponseHeader": {
+    "name": "Ajax.Response#getResponseHeader",
+    "type": "instance method",
+    "path": "ajax/Ajax/Response/prototype/getResponseHeader/"
+  },
+  "Ajax.Response#getAllResponseHeaders": {
+    "name": "Ajax.Response#getAllResponseHeaders",
+    "type": "instance method",
+    "path": "ajax/Ajax/Response/prototype/getAllResponseHeaders/"
+  },
+  "Ajax.Updater": {
+    "name": "Ajax.Updater",
+    "type": "class",
+    "path": "ajax/Ajax/Updater/"
+  },
+  "new Ajax.Updater": {
+    "name": "new Ajax.Updater",
+    "type": "constructor",
+    "path": "ajax/Ajax/Updater/new/"
+  },
+  "Ajax section": {
+    "name": "Ajax section",
+    "type": "section",
+    "path": "ajax/"
+  },
+  "Selector": {
+    "name": "Selector",
+    "type": "class",
+    "path": "dom/Selector/"
+  },
+  "new Selector": {
+    "name": "new Selector",
+    "type": "constructor",
+    "path": "dom/Selector/new/"
+  },
+  "Selector#findElements": {
+    "name": "Selector#findElements",
+    "type": "instance method",
+    "path": "dom/Selector/prototype/findElements/"
+  },
+  "Selector#match": {
+    "name": "Selector#match",
+    "type": "instance method",
+    "path": "dom/Selector/prototype/match/"
+  },
+  "Selector.matchElements": {
+    "name": "Selector.matchElements",
+    "type": "class method",
+    "path": "dom/Selector/matchElements/"
+  },
+  "Selector.findElement": {
+    "name": "Selector.findElement",
+    "type": "class method",
+    "path": "dom/Selector/findElement/"
+  },
+  "Selector.findChildElements": {
+    "name": "Selector.findChildElements",
+    "type": "class method",
+    "path": "dom/Selector/findChildElements/"
+  },
+  "Element": {
+    "name": "Element",
+    "type": "class",
+    "path": "dom/Element/"
+  },
+  "$": {
+    "name": "$",
+    "type": "utility",
+    "path": "dom/dollar/"
+  },
+  "new Element": {
+    "name": "new Element",
+    "type": "constructor",
+    "path": "dom/Element/new/"
+  },
+  "Element.Methods": {
+    "name": "Element.Methods",
+    "type": "mixin",
+    "path": "dom/Element/Methods/"
+  },
+  "Element#inspect": {
+    "name": "Element#inspect",
+    "type": "instance method",
+    "path": "dom/Element/prototype/inspect/"
+  },
+  "Element.inspect": {
+    "name": "Element.inspect",
+    "type": "class method",
+    "path": "dom/Element/inspect/"
+  },
+  "Element#visible": {
+    "name": "Element#visible",
+    "type": "instance method",
+    "path": "dom/Element/prototype/visible/"
+  },
+  "Element.visible": {
+    "name": "Element.visible",
+    "type": "class method",
+    "path": "dom/Element/visible/"
+  },
+  "Element#toggle": {
+    "name": "Element#toggle",
+    "type": "instance method",
+    "path": "dom/Element/prototype/toggle/"
+  },
+  "Element.toggle": {
+    "name": "Element.toggle",
+    "type": "class method",
+    "path": "dom/Element/toggle/"
+  },
+  "Element#hide": {
+    "name": "Element#hide",
+    "type": "instance method",
+    "path": "dom/Element/prototype/hide/"
+  },
+  "Element.hide": {
+    "name": "Element.hide",
+    "type": "class method",
+    "path": "dom/Element/hide/"
+  },
+  "Element#show": {
+    "name": "Element#show",
+    "type": "instance method",
+    "path": "dom/Element/prototype/show/"
+  },
+  "Element.show": {
+    "name": "Element.show",
+    "type": "class method",
+    "path": "dom/Element/show/"
+  },
+  "Element#remove": {
+    "name": "Element#remove",
+    "type": "instance method",
+    "path": "dom/Element/prototype/remove/"
+  },
+  "Element.remove": {
+    "name": "Element.remove",
+    "type": "class method",
+    "path": "dom/Element/remove/"
+  },
+  "Element#update": {
+    "name": "Element#update",
+    "type": "instance method",
+    "path": "dom/Element/prototype/update/"
+  },
+  "Element.update": {
+    "name": "Element.update",
+    "type": "class method",
+    "path": "dom/Element/update/"
+  },
+  "Element#replace": {
+    "name": "Element#replace",
+    "type": "instance method",
+    "path": "dom/Element/prototype/replace/"
+  },
+  "Element.replace": {
+    "name": "Element.replace",
+    "type": "class method",
+    "path": "dom/Element/replace/"
+  },
+  "Element#insert": {
+    "name": "Element#insert",
+    "type": "instance method",
+    "path": "dom/Element/prototype/insert/"
+  },
+  "Element.insert": {
+    "name": "Element.insert",
+    "type": "class method",
+    "path": "dom/Element/insert/"
+  },
+  "Element#wrap": {
+    "name": "Element#wrap",
+    "type": "instance method",
+    "path": "dom/Element/prototype/wrap/"
+  },
+  "Element.wrap": {
+    "name": "Element.wrap",
+    "type": "class method",
+    "path": "dom/Element/wrap/"
+  },
+  "Element#cleanWhitespace": {
+    "name": "Element#cleanWhitespace",
+    "type": "instance method",
+    "path": "dom/Element/prototype/cleanWhitespace/"
+  },
+  "Element.cleanWhitespace": {
+    "name": "Element.cleanWhitespace",
+    "type": "class method",
+    "path": "dom/Element/cleanWhitespace/"
+  },
+  "Element#empty": {
+    "name": "Element#empty",
+    "type": "instance method",
+    "path": "dom/Element/prototype/empty/"
+  },
+  "Element.empty": {
+    "name": "Element.empty",
+    "type": "class method",
+    "path": "dom/Element/empty/"
+  },
+  "Element#clone": {
+    "name": "Element#clone",
+    "type": "instance method",
+    "path": "dom/Element/prototype/clone/"
+  },
+  "Element.clone": {
+    "name": "Element.clone",
+    "type": "class method",
+    "path": "dom/Element/clone/"
+  },
+  "Element#purge": {
+    "name": "Element#purge",
+    "type": "instance method",
+    "path": "dom/Element/prototype/purge/"
+  },
+  "Element.purge": {
+    "name": "Element.purge",
+    "type": "class method",
+    "path": "dom/Element/purge/"
+  },
+  "Element#recursivelyCollect": {
+    "name": "Element#recursivelyCollect",
+    "type": "instance method",
+    "path": "dom/Element/prototype/recursivelyCollect/"
+  },
+  "Element.recursivelyCollect": {
+    "name": "Element.recursivelyCollect",
+    "type": "class method",
+    "path": "dom/Element/recursivelyCollect/"
+  },
+  "Element#ancestors": {
+    "name": "Element#ancestors",
+    "type": "instance method",
+    "path": "dom/Element/prototype/ancestors/"
+  },
+  "Element.ancestors": {
+    "name": "Element.ancestors",
+    "type": "class method",
+    "path": "dom/Element/ancestors/"
+  },
+  "Element#descendants": {
+    "name": "Element#descendants",
+    "type": "instance method",
+    "path": "dom/Element/prototype/descendants/"
+  },
+  "Element.descendants": {
+    "name": "Element.descendants",
+    "type": "class method",
+    "path": "dom/Element/descendants/"
+  },
+  "Element#firstDescendant": {
+    "name": "Element#firstDescendant",
+    "type": "instance method",
+    "path": "dom/Element/prototype/firstDescendant/"
+  },
+  "Element.firstDescendant": {
+    "name": "Element.firstDescendant",
+    "type": "class method",
+    "path": "dom/Element/firstDescendant/"
+  },
+  "Element#immediateDescendants": {
+    "name": "Element#immediateDescendants",
+    "type": "instance method",
+    "path": "dom/Element/prototype/immediateDescendants/"
+  },
+  "Element.immediateDescendants": {
+    "name": "Element.immediateDescendants",
+    "type": "class method",
+    "path": "dom/Element/immediateDescendants/"
+  },
+  "Element#previousSiblings": {
+    "name": "Element#previousSiblings",
+    "type": "instance method",
+    "path": "dom/Element/prototype/previousSiblings/"
+  },
+  "Element.previousSiblings": {
+    "name": "Element.previousSiblings",
+    "type": "class method",
+    "path": "dom/Element/previousSiblings/"
+  },
+  "Element#nextSiblings": {
+    "name": "Element#nextSiblings",
+    "type": "instance method",
+    "path": "dom/Element/prototype/nextSiblings/"
+  },
+  "Element.nextSiblings": {
+    "name": "Element.nextSiblings",
+    "type": "class method",
+    "path": "dom/Element/nextSiblings/"
+  },
+  "Element#siblings": {
+    "name": "Element#siblings",
+    "type": "instance method",
+    "path": "dom/Element/prototype/siblings/"
+  },
+  "Element.siblings": {
+    "name": "Element.siblings",
+    "type": "class method",
+    "path": "dom/Element/siblings/"
+  },
+  "Element#match": {
+    "name": "Element#match",
+    "type": "instance method",
+    "path": "dom/Element/prototype/match/"
+  },
+  "Element.match": {
+    "name": "Element.match",
+    "type": "class method",
+    "path": "dom/Element/match/"
+  },
+  "Element#up": {
+    "name": "Element#up",
+    "type": "instance method",
+    "path": "dom/Element/prototype/up/"
+  },
+  "Element.up": {
+    "name": "Element.up",
+    "type": "class method",
+    "path": "dom/Element/up/"
+  },
+  "Element#down": {
+    "name": "Element#down",
+    "type": "instance method",
+    "path": "dom/Element/prototype/down/"
+  },
+  "Element.down": {
+    "name": "Element.down",
+    "type": "class method",
+    "path": "dom/Element/down/"
+  },
+  "Element#previous": {
+    "name": "Element#previous",
+    "type": "instance method",
+    "path": "dom/Element/prototype/previous/"
+  },
+  "Element.previous": {
+    "name": "Element.previous",
+    "type": "class method",
+    "path": "dom/Element/previous/"
+  },
+  "Element#next": {
+    "name": "Element#next",
+    "type": "instance method",
+    "path": "dom/Element/prototype/next/"
+  },
+  "Element.next": {
+    "name": "Element.next",
+    "type": "class method",
+    "path": "dom/Element/next/"
+  },
+  "Element#select": {
+    "name": "Element#select",
+    "type": "instance method",
+    "path": "dom/Element/prototype/select/"
+  },
+  "Element.select": {
+    "name": "Element.select",
+    "type": "class method",
+    "path": "dom/Element/select/"
+  },
+  "Element#adjacent": {
+    "name": "Element#adjacent",
+    "type": "instance method",
+    "path": "dom/Element/prototype/adjacent/"
+  },
+  "Element.adjacent": {
+    "name": "Element.adjacent",
+    "type": "class method",
+    "path": "dom/Element/adjacent/"
+  },
+  "Element#descendantOf": {
+    "name": "Element#descendantOf",
+    "type": "instance method",
+    "path": "dom/Element/prototype/descendantOf/"
+  },
+  "Element.descendantOf": {
+    "name": "Element.descendantOf",
+    "type": "class method",
+    "path": "dom/Element/descendantOf/"
+  },
+  "Element#getElementsBySelector": {
+    "name": "Element#getElementsBySelector",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getElementsBySelector/"
+  },
+  "Element.getElementsBySelector": {
+    "name": "Element.getElementsBySelector",
+    "type": "class method",
+    "path": "dom/Element/getElementsBySelector/"
+  },
+  "Element#childElements": {
+    "name": "Element#childElements",
+    "type": "instance method",
+    "path": "dom/Element/prototype/childElements/"
+  },
+  "Element.childElements": {
+    "name": "Element.childElements",
+    "type": "class method",
+    "path": "dom/Element/childElements/"
+  },
+  "Element#identify": {
+    "name": "Element#identify",
+    "type": "instance method",
+    "path": "dom/Element/prototype/identify/"
+  },
+  "Element.identify": {
+    "name": "Element.identify",
+    "type": "class method",
+    "path": "dom/Element/identify/"
+  },
+  "Element#readAttribute": {
+    "name": "Element#readAttribute",
+    "type": "instance method",
+    "path": "dom/Element/prototype/readAttribute/"
+  },
+  "Element.readAttribute": {
+    "name": "Element.readAttribute",
+    "type": "class method",
+    "path": "dom/Element/readAttribute/"
+  },
+  "Element#writeAttribute": {
+    "name": "Element#writeAttribute",
+    "type": "instance method",
+    "path": "dom/Element/prototype/writeAttribute/"
+  },
+  "Element.writeAttribute": {
+    "name": "Element.writeAttribute",
+    "type": "class method",
+    "path": "dom/Element/writeAttribute/"
+  },
+  "Element#classNames": {
+    "name": "Element#classNames",
+    "type": "instance method",
+    "path": "dom/Element/prototype/classNames/"
+  },
+  "Element.classNames": {
+    "name": "Element.classNames",
+    "type": "class method",
+    "path": "dom/Element/classNames/"
+  },
+  "Element#hasClassName": {
+    "name": "Element#hasClassName",
+    "type": "instance method",
+    "path": "dom/Element/prototype/hasClassName/"
+  },
+  "Element.hasClassName": {
+    "name": "Element.hasClassName",
+    "type": "class method",
+    "path": "dom/Element/hasClassName/"
+  },
+  "Element#addClassName": {
+    "name": "Element#addClassName",
+    "type": "instance method",
+    "path": "dom/Element/prototype/addClassName/"
+  },
+  "Element.addClassName": {
+    "name": "Element.addClassName",
+    "type": "class method",
+    "path": "dom/Element/addClassName/"
+  },
+  "Element#removeClassName": {
+    "name": "Element#removeClassName",
+    "type": "instance method",
+    "path": "dom/Element/prototype/removeClassName/"
+  },
+  "Element.removeClassName": {
+    "name": "Element.removeClassName",
+    "type": "class method",
+    "path": "dom/Element/removeClassName/"
+  },
+  "Element#toggleClassName": {
+    "name": "Element#toggleClassName",
+    "type": "instance method",
+    "path": "dom/Element/prototype/toggleClassName/"
+  },
+  "Element.toggleClassName": {
+    "name": "Element.toggleClassName",
+    "type": "class method",
+    "path": "dom/Element/toggleClassName/"
+  },
+  "Element#setStyle": {
+    "name": "Element#setStyle",
+    "type": "instance method",
+    "path": "dom/Element/prototype/setStyle/"
+  },
+  "Element.setStyle": {
+    "name": "Element.setStyle",
+    "type": "class method",
+    "path": "dom/Element/setStyle/"
+  },
+  "Element#getStyle": {
+    "name": "Element#getStyle",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getStyle/"
+  },
+  "Element.getStyle": {
+    "name": "Element.getStyle",
+    "type": "class method",
+    "path": "dom/Element/getStyle/"
+  },
+  "Element#setOpacity": {
+    "name": "Element#setOpacity",
+    "type": "instance method",
+    "path": "dom/Element/prototype/setOpacity/"
+  },
+  "Element.setOpacity": {
+    "name": "Element.setOpacity",
+    "type": "class method",
+    "path": "dom/Element/setOpacity/"
+  },
+  "Element#getOpacity": {
+    "name": "Element#getOpacity",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getOpacity/"
+  },
+  "Element.getOpacity": {
+    "name": "Element.getOpacity",
+    "type": "class method",
+    "path": "dom/Element/getOpacity/"
+  },
+  "Element#getStorage": {
+    "name": "Element#getStorage",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getStorage/"
+  },
+  "Element.getStorage": {
+    "name": "Element.getStorage",
+    "type": "class method",
+    "path": "dom/Element/getStorage/"
+  },
+  "Element#store": {
+    "name": "Element#store",
+    "type": "instance method",
+    "path": "dom/Element/prototype/store/"
+  },
+  "Element.store": {
+    "name": "Element.store",
+    "type": "class method",
+    "path": "dom/Element/store/"
+  },
+  "Element#retrieve": {
+    "name": "Element#retrieve",
+    "type": "instance method",
+    "path": "dom/Element/prototype/retrieve/"
+  },
+  "Element.retrieve": {
+    "name": "Element.retrieve",
+    "type": "class method",
+    "path": "dom/Element/retrieve/"
+  },
+  "Element.extend": {
+    "name": "Element.extend",
+    "type": "class method",
+    "path": "dom/Element/extend/"
+  },
+  "Element.addMethods": {
+    "name": "Element.addMethods",
+    "type": "class method",
+    "path": "dom/Element/addMethods/"
+  },
+  "Event": {
+    "name": "Event",
+    "type": "class",
+    "path": "dom/Event/"
+  },
+  "Event#isLeftClick": {
+    "name": "Event#isLeftClick",
+    "type": "instance method",
+    "path": "dom/Event/prototype/isLeftClick/"
+  },
+  "Event.isLeftClick": {
+    "name": "Event.isLeftClick",
+    "type": "class method",
+    "path": "dom/Event/isLeftClick/"
+  },
+  "Event#isMiddleClick": {
+    "name": "Event#isMiddleClick",
+    "type": "instance method",
+    "path": "dom/Event/prototype/isMiddleClick/"
+  },
+  "Event.isMiddleClick": {
+    "name": "Event.isMiddleClick",
+    "type": "class method",
+    "path": "dom/Event/isMiddleClick/"
+  },
+  "Event#isRightClick": {
+    "name": "Event#isRightClick",
+    "type": "instance method",
+    "path": "dom/Event/prototype/isRightClick/"
+  },
+  "Event.isRightClick": {
+    "name": "Event.isRightClick",
+    "type": "class method",
+    "path": "dom/Event/isRightClick/"
+  },
+  "Event#element": {
+    "name": "Event#element",
+    "type": "instance method",
+    "path": "dom/Event/prototype/element/"
+  },
+  "Event.element": {
+    "name": "Event.element",
+    "type": "class method",
+    "path": "dom/Event/element/"
+  },
+  "Event#findElement": {
+    "name": "Event#findElement",
+    "type": "instance method",
+    "path": "dom/Event/prototype/findElement/"
+  },
+  "Event.findElement": {
+    "name": "Event.findElement",
+    "type": "class method",
+    "path": "dom/Event/findElement/"
+  },
+  "Event#pointer": {
+    "name": "Event#pointer",
+    "type": "instance method",
+    "path": "dom/Event/prototype/pointer/"
+  },
+  "Event.pointer": {
+    "name": "Event.pointer",
+    "type": "class method",
+    "path": "dom/Event/pointer/"
+  },
+  "Event#pointerX": {
+    "name": "Event#pointerX",
+    "type": "instance method",
+    "path": "dom/Event/prototype/pointerX/"
+  },
+  "Event.pointerX": {
+    "name": "Event.pointerX",
+    "type": "class method",
+    "path": "dom/Event/pointerX/"
+  },
+  "Event#pointerY": {
+    "name": "Event#pointerY",
+    "type": "instance method",
+    "path": "dom/Event/prototype/pointerY/"
+  },
+  "Event.pointerY": {
+    "name": "Event.pointerY",
+    "type": "class method",
+    "path": "dom/Event/pointerY/"
+  },
+  "Event#stop": {
+    "name": "Event#stop",
+    "type": "instance method",
+    "path": "dom/Event/prototype/stop/"
+  },
+  "Event.stop": {
+    "name": "Event.stop",
+    "type": "class method",
+    "path": "dom/Event/stop/"
+  },
+  "Event#extend": {
+    "name": "Event#extend",
+    "type": "instance method",
+    "path": "dom/Event/prototype/extend/"
+  },
+  "Event.extend": {
+    "name": "Event.extend",
+    "type": "class method",
+    "path": "dom/Event/extend/"
+  },
+  "Event.observe": {
+    "name": "Event.observe",
+    "type": "class method",
+    "path": "dom/Event/observe/"
+  },
+  "Event.stopObserving": {
+    "name": "Event.stopObserving",
+    "type": "class method",
+    "path": "dom/Event/stopObserving/"
+  },
+  "Event.fire": {
+    "name": "Event.fire",
+    "type": "class method",
+    "path": "dom/Event/fire/"
+  },
+  "Event.Handler": {
+    "name": "Event.Handler",
+    "type": "class",
+    "path": "dom/Event/Handler/"
+  },
+  "new Event.Handler": {
+    "name": "new Event.Handler",
+    "type": "constructor",
+    "path": "dom/Event/Handler/new/"
+  },
+  "Event.Handler#start": {
+    "name": "Event.Handler#start",
+    "type": "instance property",
+    "path": "dom/Event/Handler/prototype/start/"
+  },
+  "Event.Handler#stop": {
+    "name": "Event.Handler#stop",
+    "type": "instance property",
+    "path": "dom/Event/Handler/prototype/stop/"
+  },
+  "Event.on": {
+    "name": "Event.on",
+    "type": "class method",
+    "path": "dom/Event/on/"
+  },
+  "Element#fire": {
+    "name": "Element#fire",
+    "type": "instance method",
+    "path": "dom/Element/prototype/fire/"
+  },
+  "Element.fire": {
+    "name": "Element.fire",
+    "type": "class method",
+    "path": "dom/Element/fire/"
+  },
+  "Element#observe": {
+    "name": "Element#observe",
+    "type": "instance method",
+    "path": "dom/Element/prototype/observe/"
+  },
+  "Element.observe": {
+    "name": "Element.observe",
+    "type": "class method",
+    "path": "dom/Element/observe/"
+  },
+  "Element#stopObserving": {
+    "name": "Element#stopObserving",
+    "type": "instance method",
+    "path": "dom/Element/prototype/stopObserving/"
+  },
+  "Element.stopObserving": {
+    "name": "Element.stopObserving",
+    "type": "class method",
+    "path": "dom/Element/stopObserving/"
+  },
+  "Element#on": {
+    "name": "Element#on",
+    "type": "instance method",
+    "path": "dom/Element/prototype/on/"
+  },
+  "Element.on": {
+    "name": "Element.on",
+    "type": "class method",
+    "path": "dom/Element/on/"
+  },
+  "document": {
+    "name": "document",
+    "type": "namespace",
+    "path": "dom/document/"
+  },
+  "document.fire": {
+    "name": "document.fire",
+    "type": "class method",
+    "path": "dom/document/fire/"
+  },
+  "document.observe": {
+    "name": "document.observe",
+    "type": "class method",
+    "path": "dom/document/observe/"
+  },
+  "document.stopObserving": {
+    "name": "document.stopObserving",
+    "type": "class method",
+    "path": "dom/document/stopObserving/"
+  },
+  "document#on": {
+    "name": "document#on",
+    "type": "instance method",
+    "path": "dom/document/prototype/on/"
+  },
+  "document.on": {
+    "name": "document.on",
+    "type": "class method",
+    "path": "dom/document/on/"
+  },
+  "document.loaded": {
+    "name": "document.loaded",
+    "type": "class property",
+    "path": "dom/document/loaded/"
+  },
+  "Form": {
+    "name": "Form",
+    "type": "namespace",
+    "path": "dom/Form/"
+  },
+  "Form#reset": {
+    "name": "Form#reset",
+    "type": "instance method",
+    "path": "dom/Form/prototype/reset/"
+  },
+  "Form.reset": {
+    "name": "Form.reset",
+    "type": "class method",
+    "path": "dom/Form/reset/"
+  },
+  "Form.serializeElements": {
+    "name": "Form.serializeElements",
+    "type": "class method",
+    "path": "dom/Form/serializeElements/"
+  },
+  "Form#serialize": {
+    "name": "Form#serialize",
+    "type": "instance method",
+    "path": "dom/Form/prototype/serialize/"
+  },
+  "Form.serialize": {
+    "name": "Form.serialize",
+    "type": "class method",
+    "path": "dom/Form/serialize/"
+  },
+  "Form#getElements": {
+    "name": "Form#getElements",
+    "type": "instance method",
+    "path": "dom/Form/prototype/getElements/"
+  },
+  "Form.getElements": {
+    "name": "Form.getElements",
+    "type": "class method",
+    "path": "dom/Form/getElements/"
+  },
+  "Form#getInputs": {
+    "name": "Form#getInputs",
+    "type": "instance method",
+    "path": "dom/Form/prototype/getInputs/"
+  },
+  "Form.getInputs": {
+    "name": "Form.getInputs",
+    "type": "class method",
+    "path": "dom/Form/getInputs/"
+  },
+  "Form#disable": {
+    "name": "Form#disable",
+    "type": "instance method",
+    "path": "dom/Form/prototype/disable/"
+  },
+  "Form.disable": {
+    "name": "Form.disable",
+    "type": "class method",
+    "path": "dom/Form/disable/"
+  },
+  "Form#enable": {
+    "name": "Form#enable",
+    "type": "instance method",
+    "path": "dom/Form/prototype/enable/"
+  },
+  "Form.enable": {
+    "name": "Form.enable",
+    "type": "class method",
+    "path": "dom/Form/enable/"
+  },
+  "Form#findFirstElement": {
+    "name": "Form#findFirstElement",
+    "type": "instance method",
+    "path": "dom/Form/prototype/findFirstElement/"
+  },
+  "Form.findFirstElement": {
+    "name": "Form.findFirstElement",
+    "type": "class method",
+    "path": "dom/Form/findFirstElement/"
+  },
+  "Form#focusFirstElement": {
+    "name": "Form#focusFirstElement",
+    "type": "instance method",
+    "path": "dom/Form/prototype/focusFirstElement/"
+  },
+  "Form.focusFirstElement": {
+    "name": "Form.focusFirstElement",
+    "type": "class method",
+    "path": "dom/Form/focusFirstElement/"
+  },
+  "Form#request": {
+    "name": "Form#request",
+    "type": "instance method",
+    "path": "dom/Form/prototype/request/"
+  },
+  "Form.request": {
+    "name": "Form.request",
+    "type": "class method",
+    "path": "dom/Form/request/"
+  },
+  "Form.Element": {
+    "name": "Form.Element",
+    "type": "namespace",
+    "path": "dom/Form/Element/"
+  },
+  "Form.Element.focus": {
+    "name": "Form.Element.focus",
+    "type": "class method",
+    "path": "dom/Form/Element/focus/"
+  },
+  "Form.Element.select": {
+    "name": "Form.Element.select",
+    "type": "class method",
+    "path": "dom/Form/Element/select/"
+  },
+  "Form.Element#serialize": {
+    "name": "Form.Element#serialize",
+    "type": "instance method",
+    "path": "dom/Form/Element/prototype/serialize/"
+  },
+  "Form.Element.serialize": {
+    "name": "Form.Element.serialize",
+    "type": "class method",
+    "path": "dom/Form/Element/serialize/"
+  },
+  "Form.Element#getValue": {
+    "name": "Form.Element#getValue",
+    "type": "instance method",
+    "path": "dom/Form/Element/prototype/getValue/"
+  },
+  "Form.Element.getValue": {
+    "name": "Form.Element.getValue",
+    "type": "class method",
+    "path": "dom/Form/Element/getValue/"
+  },
+  "Form.Element#setValue": {
+    "name": "Form.Element#setValue",
+    "type": "instance method",
+    "path": "dom/Form/Element/prototype/setValue/"
+  },
+  "Form.Element.setValue": {
+    "name": "Form.Element.setValue",
+    "type": "class method",
+    "path": "dom/Form/Element/setValue/"
+  },
+  "Form.Element#clear": {
+    "name": "Form.Element#clear",
+    "type": "instance method",
+    "path": "dom/Form/Element/prototype/clear/"
+  },
+  "Form.Element.clear": {
+    "name": "Form.Element.clear",
+    "type": "class method",
+    "path": "dom/Form/Element/clear/"
+  },
+  "Form.Element#present": {
+    "name": "Form.Element#present",
+    "type": "instance method",
+    "path": "dom/Form/Element/prototype/present/"
+  },
+  "Form.Element.present": {
+    "name": "Form.Element.present",
+    "type": "class method",
+    "path": "dom/Form/Element/present/"
+  },
+  "Form.Element#activate": {
+    "name": "Form.Element#activate",
+    "type": "instance method",
+    "path": "dom/Form/Element/prototype/activate/"
+  },
+  "Form.Element.activate": {
+    "name": "Form.Element.activate",
+    "type": "class method",
+    "path": "dom/Form/Element/activate/"
+  },
+  "Form.Element#disable": {
+    "name": "Form.Element#disable",
+    "type": "instance method",
+    "path": "dom/Form/Element/prototype/disable/"
+  },
+  "Form.Element.disable": {
+    "name": "Form.Element.disable",
+    "type": "class method",
+    "path": "dom/Form/Element/disable/"
+  },
+  "Form.Element#enable": {
+    "name": "Form.Element#enable",
+    "type": "instance method",
+    "path": "dom/Form/Element/prototype/enable/"
+  },
+  "Form.Element.enable": {
+    "name": "Form.Element.enable",
+    "type": "class method",
+    "path": "dom/Form/Element/enable/"
+  },
+  "$F": {
+    "name": "$F",
+    "type": "utility",
+    "path": "dom/dollar-F/"
+  },
+  "Abstract": {
+    "name": "Abstract",
+    "type": "namespace",
+    "path": "dom/Abstract/"
+  },
+  "Abstract.TimedObserver": {
+    "name": "Abstract.TimedObserver",
+    "type": "class",
+    "path": "dom/Abstract/TimedObserver/"
+  },
+  "new Abstract.TimedObserver": {
+    "name": "new Abstract.TimedObserver",
+    "type": "constructor",
+    "path": "dom/Abstract/TimedObserver/new/"
+  },
+  "Form.Element.Observer": {
+    "name": "Form.Element.Observer",
+    "type": "class",
+    "path": "dom/Form/Element/Observer/"
+  },
+  "new Form.Element.Observer": {
+    "name": "new Form.Element.Observer",
+    "type": "constructor",
+    "path": "dom/Form/Element/Observer/new/"
+  },
+  "Form.Observer": {
+    "name": "Form.Observer",
+    "type": "class",
+    "path": "dom/Form/Observer/"
+  },
+  "new Form.Observer": {
+    "name": "new Form.Observer",
+    "type": "constructor",
+    "path": "dom/Form/Observer/new/"
+  },
+  "Abstract.EventObserver": {
+    "name": "Abstract.EventObserver",
+    "type": "class",
+    "path": "dom/Abstract/EventObserver/"
+  },
+  "Form.Element.EventObserver": {
+    "name": "Form.Element.EventObserver",
+    "type": "class",
+    "path": "dom/Form/Element/EventObserver/"
+  },
+  "Form.EventObserver": {
+    "name": "Form.EventObserver",
+    "type": "class",
+    "path": "dom/Form/EventObserver/"
+  },
+  "Element.Layout": {
+    "name": "Element.Layout",
+    "type": "class",
+    "path": "dom/Element/Layout/"
+  },
+  "new Element.Layout": {
+    "name": "new Element.Layout",
+    "type": "constructor",
+    "path": "dom/Element/Layout/new/"
+  },
+  "Element.Layout#get": {
+    "name": "Element.Layout#get",
+    "type": "instance method",
+    "path": "dom/Element/Layout/prototype/get/"
+  },
+  "Element.Layout#toObject": {
+    "name": "Element.Layout#toObject",
+    "type": "instance method",
+    "path": "dom/Element/Layout/prototype/toObject/"
+  },
+  "Element.Layout#toHash": {
+    "name": "Element.Layout#toHash",
+    "type": "instance method",
+    "path": "dom/Element/Layout/prototype/toHash/"
+  },
+  "Element.Layout#toCSS": {
+    "name": "Element.Layout#toCSS",
+    "type": "instance method",
+    "path": "dom/Element/Layout/prototype/toCSS/"
+  },
+  "Element.Layout.PROPERTIES": {
+    "name": "Element.Layout.PROPERTIES",
+    "type": "constant",
+    "path": "dom/Element/Layout/PROPERTIES/"
+  },
+  "Element.Layout.COMPOSITE_PROPERTIES": {
+    "name": "Element.Layout.COMPOSITE_PROPERTIES",
+    "type": "constant",
+    "path": "dom/Element/Layout/COMPOSITE_PROPERTIES/"
+  },
+  "Element.Offset": {
+    "name": "Element.Offset",
+    "type": "class",
+    "path": "dom/Element/Offset/"
+  },
+  "new Element.Offset": {
+    "name": "new Element.Offset",
+    "type": "constructor",
+    "path": "dom/Element/Offset/new/"
+  },
+  "Element.Offset#relativeTo": {
+    "name": "Element.Offset#relativeTo",
+    "type": "instance method",
+    "path": "dom/Element/Offset/prototype/relativeTo/"
+  },
+  "Element.Offset#inspect": {
+    "name": "Element.Offset#inspect",
+    "type": "instance method",
+    "path": "dom/Element/Offset/prototype/inspect/"
+  },
+  "Element.Offset#toString": {
+    "name": "Element.Offset#toString",
+    "type": "instance method",
+    "path": "dom/Element/Offset/prototype/toString/"
+  },
+  "Element.Offset#toArray": {
+    "name": "Element.Offset#toArray",
+    "type": "instance method",
+    "path": "dom/Element/Offset/prototype/toArray/"
+  },
+  "Element#getLayout": {
+    "name": "Element#getLayout",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getLayout/"
+  },
+  "Element.getLayout": {
+    "name": "Element.getLayout",
+    "type": "class method",
+    "path": "dom/Element/getLayout/"
+  },
+  "Element#measure": {
+    "name": "Element#measure",
+    "type": "instance method",
+    "path": "dom/Element/prototype/measure/"
+  },
+  "Element.measure": {
+    "name": "Element.measure",
+    "type": "class method",
+    "path": "dom/Element/measure/"
+  },
+  "Element#getHeight": {
+    "name": "Element#getHeight",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getHeight/"
+  },
+  "Element.getHeight": {
+    "name": "Element.getHeight",
+    "type": "class method",
+    "path": "dom/Element/getHeight/"
+  },
+  "Element#getWidth": {
+    "name": "Element#getWidth",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getWidth/"
+  },
+  "Element.getWidth": {
+    "name": "Element.getWidth",
+    "type": "class method",
+    "path": "dom/Element/getWidth/"
+  },
+  "Element#getDimensions": {
+    "name": "Element#getDimensions",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getDimensions/"
+  },
+  "Element.getDimensions": {
+    "name": "Element.getDimensions",
+    "type": "class method",
+    "path": "dom/Element/getDimensions/"
+  },
+  "Element#getOffsetParent": {
+    "name": "Element#getOffsetParent",
+    "type": "instance method",
+    "path": "dom/Element/prototype/getOffsetParent/"
+  },
+  "Element.getOffsetParent": {
+    "name": "Element.getOffsetParent",
+    "type": "class method",
+    "path": "dom/Element/getOffsetParent/"
+  },
+  "Element#cumulativeOffset": {
+    "name": "Element#cumulativeOffset",
+    "type": "instance method",
+    "path": "dom/Element/prototype/cumulativeOffset/"
+  },
+  "Element.cumulativeOffset": {
+    "name": "Element.cumulativeOffset",
+    "type": "class method",
+    "path": "dom/Element/cumulativeOffset/"
+  },
+  "Element#positionedOffset": {
+    "name": "Element#positionedOffset",
+    "type": "instance method",
+    "path": "dom/Element/prototype/positionedOffset/"
+  },
+  "Element.positionedOffset": {
+    "name": "Element.positionedOffset",
+    "type": "class method",
+    "path": "dom/Element/positionedOffset/"
+  },
+  "Element#cumulativeScrollOffset": {
+    "name": "Element#cumulativeScrollOffset",
+    "type": "instance method",
+    "path": "dom/Element/prototype/cumulativeScrollOffset/"
+  },
+  "Element.cumulativeScrollOffset": {
+    "name": "Element.cumulativeScrollOffset",
+    "type": "class method",
+    "path": "dom/Element/cumulativeScrollOffset/"
+  },
+  "Element#viewportOffset": {
+    "name": "Element#viewportOffset",
+    "type": "instance method",
+    "path": "dom/Element/prototype/viewportOffset/"
+  },
+  "Element.viewportOffset": {
+    "name": "Element.viewportOffset",
+    "type": "class method",
+    "path": "dom/Element/viewportOffset/"
+  },
+  "Element#absolutize": {
+    "name": "Element#absolutize",
+    "type": "instance method",
+    "path": "dom/Element/prototype/absolutize/"
+  },
+  "Element.absolutize": {
+    "name": "Element.absolutize",
+    "type": "class method",
+    "path": "dom/Element/absolutize/"
+  },
+  "Element#relativize": {
+    "name": "Element#relativize",
+    "type": "instance method",
+    "path": "dom/Element/prototype/relativize/"
+  },
+  "Element.relativize": {
+    "name": "Element.relativize",
+    "type": "class method",
+    "path": "dom/Element/relativize/"
+  },
+  "Element#scrollTo": {
+    "name": "Element#scrollTo",
+    "type": "instance method",
+    "path": "dom/Element/prototype/scrollTo/"
+  },
+  "Element.scrollTo": {
+    "name": "Element.scrollTo",
+    "type": "class method",
+    "path": "dom/Element/scrollTo/"
+  },
+  "Element#makePositioned": {
+    "name": "Element#makePositioned",
+    "type": "instance method",
+    "path": "dom/Element/prototype/makePositioned/"
+  },
+  "Element.makePositioned": {
+    "name": "Element.makePositioned",
+    "type": "class method",
+    "path": "dom/Element/makePositioned/"
+  },
+  "Element#undoPositioned": {
+    "name": "Element#undoPositioned",
+    "type": "instance method",
+    "path": "dom/Element/prototype/undoPositioned/"
+  },
+  "Element.undoPositioned": {
+    "name": "Element.undoPositioned",
+    "type": "class method",
+    "path": "dom/Element/undoPositioned/"
+  },
+  "Element#makeClipping": {
+    "name": "Element#makeClipping",
+    "type": "instance method",
+    "path": "dom/Element/prototype/makeClipping/"
+  },
+  "Element.makeClipping": {
+    "name": "Element.makeClipping",
+    "type": "class method",
+    "path": "dom/Element/makeClipping/"
+  },
+  "Element#undoClipping": {
+    "name": "Element#undoClipping",
+    "type": "instance method",
+    "path": "dom/Element/prototype/undoClipping/"
+  },
+  "Element.undoClipping": {
+    "name": "Element.undoClipping",
+    "type": "class method",
+    "path": "dom/Element/undoClipping/"
+  },
+  "Element#clonePosition": {
+    "name": "Element#clonePosition",
+    "type": "instance method",
+    "path": "dom/Element/prototype/clonePosition/"
+  },
+  "Element.clonePosition": {
+    "name": "Element.clonePosition",
+    "type": "class method",
+    "path": "dom/Element/clonePosition/"
+  },
+  "document.viewport": {
+    "name": "document.viewport",
+    "type": "namespace",
+    "path": "dom/document/viewport/"
+  },
+  "document.viewport.getDimensions": {
+    "name": "document.viewport.getDimensions",
+    "type": "class method",
+    "path": "dom/document/viewport/getDimensions/"
+  },
+  "document.viewport.getWidth": {
+    "name": "document.viewport.getWidth",
+    "type": "class method",
+    "path": "dom/document/viewport/getWidth/"
+  },
+  "document.viewport.getHeight": {
+    "name": "document.viewport.getHeight",
+    "type": "class method",
+    "path": "dom/document/viewport/getHeight/"
+  },
+  "document.viewport.getScrollOffsets": {
+    "name": "document.viewport.getScrollOffsets",
+    "type": "class method",
+    "path": "dom/document/viewport/getScrollOffsets/"
+  },
+  "$$": {
+    "name": "$$",
+    "type": "utility",
+    "path": "dom/dollar-dollar/"
+  },
+  "Prototype.Selector": {
+    "name": "Prototype.Selector",
+    "type": "namespace",
+    "path": "Prototype/Selector/"
+  },
+  "Prototype.Selector.select": {
+    "name": "Prototype.Selector.select",
+    "type": "class method",
+    "path": "Prototype/Selector/select/"
+  },
+  "Prototype.Selector.match": {
+    "name": "Prototype.Selector.match",
+    "type": "class method",
+    "path": "Prototype/Selector/match/"
+  },
+  "Prototype.Selector.find": {
+    "name": "Prototype.Selector.find",
+    "type": "class method",
+    "path": "Prototype/Selector/find/"
+  },
+  "Prototype.Selector.extendElements": {
+    "name": "Prototype.Selector.extendElements",
+    "type": "class method",
+    "path": "Prototype/Selector/extendElements/"
+  },
+  "Prototype.Selector.extendElement": {
+    "name": "Prototype.Selector.extendElement",
+    "type": "class method",
+    "path": "Prototype/Selector/extendElement/"
+  },
+  "DOM section": {
+    "name": "DOM section",
+    "type": "section",
+    "path": "dom/"
+  },
+  "$A": {
+    "name": "$A",
+    "type": "utility",
+    "path": "language/dollar-A/"
+  },
+  "$w": {
+    "name": "$w",
+    "type": "utility",
+    "path": "language/dollar-w/"
+  },
+  "Array.from": {
+    "name": "Array.from",
+    "type": "class method",
+    "path": "language/Array/from/"
+  },
+  "Array": {
+    "name": "Array",
+    "type": "class",
+    "path": "language/Array/"
+  },
+  "Array#clear": {
+    "name": "Array#clear",
+    "type": "instance method",
+    "path": "language/Array/prototype/clear/"
+  },
+  "Array#first": {
+    "name": "Array#first",
+    "type": "instance method",
+    "path": "language/Array/prototype/first/"
+  },
+  "Array#last": {
+    "name": "Array#last",
+    "type": "instance method",
+    "path": "language/Array/prototype/last/"
+  },
+  "Array#compact": {
+    "name": "Array#compact",
+    "type": "instance method",
+    "path": "language/Array/prototype/compact/"
+  },
+  "Array#flatten": {
+    "name": "Array#flatten",
+    "type": "instance method",
+    "path": "language/Array/prototype/flatten/"
+  },
+  "Array#without": {
+    "name": "Array#without",
+    "type": "instance method",
+    "path": "language/Array/prototype/without/"
+  },
+  "Array#reverse": {
+    "name": "Array#reverse",
+    "type": "instance method",
+    "path": "language/Array/prototype/reverse/"
+  },
+  "Array#uniq": {
+    "name": "Array#uniq",
+    "type": "instance method",
+    "path": "language/Array/prototype/uniq/"
+  },
+  "Array#intersect": {
+    "name": "Array#intersect",
+    "type": "instance method",
+    "path": "language/Array/prototype/intersect/"
+  },
+  "Array#toArray": {
+    "name": "Array#toArray",
+    "type": "instance method",
+    "path": "language/Array/prototype/toArray/"
+  },
+  "Array#clone": {
+    "name": "Array#clone",
+    "type": "instance method",
+    "path": "language/Array/prototype/clone/"
+  },
+  "Array#size": {
+    "name": "Array#size",
+    "type": "instance method",
+    "path": "language/Array/prototype/size/"
+  },
+  "Array#inspect": {
+    "name": "Array#inspect",
+    "type": "instance method",
+    "path": "language/Array/prototype/inspect/"
+  },
+  "Array#indexOf": {
+    "name": "Array#indexOf",
+    "type": "instance method",
+    "path": "language/Array/prototype/indexOf/"
+  },
+  "Array#lastIndexOf": {
+    "name": "Array#lastIndexOf",
+    "type": "instance method",
+    "path": "language/Array/prototype/lastIndexOf/"
+  },
+  "Array#map": {
+    "name": "Array#map",
+    "type": "instance method",
+    "path": "language/Array/prototype/map/"
+  },
+  "Array#filter": {
+    "name": "Array#filter",
+    "type": "instance method",
+    "path": "language/Array/prototype/filter/"
+  },
+  "Array#some": {
+    "name": "Array#some",
+    "type": "instance method",
+    "path": "language/Array/prototype/some/"
+  },
+  "Array#every": {
+    "name": "Array#every",
+    "type": "instance method",
+    "path": "language/Array/prototype/every/"
+  },
+  "Class": {
+    "name": "Class",
+    "type": "class",
+    "path": "language/Class/"
+  },
+  "Class.create": {
+    "name": "Class.create",
+    "type": "class method",
+    "path": "language/Class/create/"
+  },
+  "Class#addMethods": {
+    "name": "Class#addMethods",
+    "type": "instance method",
+    "path": "language/Class/prototype/addMethods/"
+  },
+  "Date": {
+    "name": "Date",
+    "type": "class",
+    "path": "language/Date/"
+  },
+  "Date#toISOString": {
+    "name": "Date#toISOString",
+    "type": "instance method",
+    "path": "language/Date/prototype/toISOString/"
+  },
+  "Date#toJSON": {
+    "name": "Date#toJSON",
+    "type": "instance method",
+    "path": "language/Date/prototype/toJSON/"
+  },
+  "Enumerable": {
+    "name": "Enumerable",
+    "type": "mixin",
+    "path": "language/Enumerable/"
+  },
+  "Enumerable#each": {
+    "name": "Enumerable#each",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/each/"
+  },
+  "Enumerable#eachSlice": {
+    "name": "Enumerable#eachSlice",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/eachSlice/"
+  },
+  "Enumerable#all": {
+    "name": "Enumerable#all",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/all/"
+  },
+  "Enumerable#any": {
+    "name": "Enumerable#any",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/any/"
+  },
+  "Enumerable#collect": {
+    "name": "Enumerable#collect",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/collect/"
+  },
+  "Enumerable#detect": {
+    "name": "Enumerable#detect",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/detect/"
+  },
+  "Enumerable#findAll": {
+    "name": "Enumerable#findAll",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/findAll/"
+  },
+  "Enumerable#grep": {
+    "name": "Enumerable#grep",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/grep/"
+  },
+  "Enumerable#include": {
+    "name": "Enumerable#include",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/include/"
+  },
+  "Enumerable#inGroupsOf": {
+    "name": "Enumerable#inGroupsOf",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/inGroupsOf/"
+  },
+  "Enumerable#inject": {
+    "name": "Enumerable#inject",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/inject/"
+  },
+  "Enumerable#invoke": {
+    "name": "Enumerable#invoke",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/invoke/"
+  },
+  "Enumerable#max": {
+    "name": "Enumerable#max",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/max/"
+  },
+  "Enumerable#min": {
+    "name": "Enumerable#min",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/min/"
+  },
+  "Enumerable#partition": {
+    "name": "Enumerable#partition",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/partition/"
+  },
+  "Enumerable#pluck": {
+    "name": "Enumerable#pluck",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/pluck/"
+  },
+  "Enumerable#reject": {
+    "name": "Enumerable#reject",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/reject/"
+  },
+  "Enumerable#sortBy": {
+    "name": "Enumerable#sortBy",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/sortBy/"
+  },
+  "Enumerable#toArray": {
+    "name": "Enumerable#toArray",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/toArray/"
+  },
+  "Enumerable#zip": {
+    "name": "Enumerable#zip",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/zip/"
+  },
+  "Enumerable#size": {
+    "name": "Enumerable#size",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/size/"
+  },
+  "Enumerable#inspect": {
+    "name": "Enumerable#inspect",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/inspect/"
+  },
+  "Enumerable#map": {
+    "name": "Enumerable#map",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/map/"
+  },
+  "Enumerable#some": {
+    "name": "Enumerable#some",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/some/"
+  },
+  "Enumerable#every": {
+    "name": "Enumerable#every",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/every/"
+  },
+  "Enumerable#select": {
+    "name": "Enumerable#select",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/select/"
+  },
+  "Enumerable#filter": {
+    "name": "Enumerable#filter",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/filter/"
+  },
+  "Enumerable#member": {
+    "name": "Enumerable#member",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/member/"
+  },
+  "Enumerable#entries": {
+    "name": "Enumerable#entries",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/entries/"
+  },
+  "Enumerable#find": {
+    "name": "Enumerable#find",
+    "type": "instance method",
+    "path": "language/Enumerable/prototype/find/"
+  },
+  "Function": {
+    "name": "Function",
+    "type": "class",
+    "path": "language/Function/"
+  },
+  "Function#argumentNames": {
+    "name": "Function#argumentNames",
+    "type": "instance method",
+    "path": "language/Function/prototype/argumentNames/"
+  },
+  "Function#bind": {
+    "name": "Function#bind",
+    "type": "instance method",
+    "path": "language/Function/prototype/bind/"
+  },
+  "Function#bindAsEventListener": {
+    "name": "Function#bindAsEventListener",
+    "type": "instance method",
+    "path": "language/Function/prototype/bindAsEventListener/"
+  },
+  "Function#curry": {
+    "name": "Function#curry",
+    "type": "instance method",
+    "path": "language/Function/prototype/curry/"
+  },
+  "Function#delay": {
+    "name": "Function#delay",
+    "type": "instance method",
+    "path": "language/Function/prototype/delay/"
+  },
+  "Function#defer": {
+    "name": "Function#defer",
+    "type": "instance method",
+    "path": "language/Function/prototype/defer/"
+  },
+  "Function#wrap": {
+    "name": "Function#wrap",
+    "type": "instance method",
+    "path": "language/Function/prototype/wrap/"
+  },
+  "Function#methodize": {
+    "name": "Function#methodize",
+    "type": "instance method",
+    "path": "language/Function/prototype/methodize/"
+  },
+  "$H": {
+    "name": "$H",
+    "type": "utility",
+    "path": "language/dollar-H/"
+  },
+  "Hash": {
+    "name": "Hash",
+    "type": "class",
+    "path": "language/Hash/"
+  },
+  "new Hash": {
+    "name": "new Hash",
+    "type": "constructor",
+    "path": "language/Hash/new/"
+  },
+  "Hash#each": {
+    "name": "Hash#each",
+    "type": "instance method",
+    "path": "language/Hash/prototype/each/"
+  },
+  "Hash#set": {
+    "name": "Hash#set",
+    "type": "instance method",
+    "path": "language/Hash/prototype/set/"
+  },
+  "Hash#get": {
+    "name": "Hash#get",
+    "type": "instance method",
+    "path": "language/Hash/prototype/get/"
+  },
+  "Hash#unset": {
+    "name": "Hash#unset",
+    "type": "instance method",
+    "path": "language/Hash/prototype/unset/"
+  },
+  "Hash#toObject": {
+    "name": "Hash#toObject",
+    "type": "instance method",
+    "path": "language/Hash/prototype/toObject/"
+  },
+  "Hash#toJSON": {
+    "name": "Hash#toJSON",
+    "type": "instance method",
+    "path": "language/Hash/prototype/toJSON/"
+  },
+  "Hash#toTemplateReplacements": {
+    "name": "Hash#toTemplateReplacements",
+    "type": "instance method",
+    "path": "language/Hash/prototype/toTemplateReplacements/"
+  },
+  "Hash#keys": {
+    "name": "Hash#keys",
+    "type": "instance method",
+    "path": "language/Hash/prototype/keys/"
+  },
+  "Hash#values": {
+    "name": "Hash#values",
+    "type": "instance method",
+    "path": "language/Hash/prototype/values/"
+  },
+  "Hash#index": {
+    "name": "Hash#index",
+    "type": "instance method",
+    "path": "language/Hash/prototype/index/"
+  },
+  "Hash#merge": {
+    "name": "Hash#merge",
+    "type": "instance method",
+    "path": "language/Hash/prototype/merge/"
+  },
+  "Hash#update": {
+    "name": "Hash#update",
+    "type": "instance method",
+    "path": "language/Hash/prototype/update/"
+  },
+  "Hash#toQueryString": {
+    "name": "Hash#toQueryString",
+    "type": "instance method",
+    "path": "language/Hash/prototype/toQueryString/"
+  },
+  "Hash#inspect": {
+    "name": "Hash#inspect",
+    "type": "instance method",
+    "path": "language/Hash/prototype/inspect/"
+  },
+  "Hash#clone": {
+    "name": "Hash#clone",
+    "type": "instance method",
+    "path": "language/Hash/prototype/clone/"
+  },
+  "Number": {
+    "name": "Number",
+    "type": "class",
+    "path": "language/Number/"
+  },
+  "Number#toColorPart": {
+    "name": "Number#toColorPart",
+    "type": "instance method",
+    "path": "language/Number/prototype/toColorPart/"
+  },
+  "Number#succ": {
+    "name": "Number#succ",
+    "type": "instance method",
+    "path": "language/Number/prototype/succ/"
+  },
+  "Number#times": {
+    "name": "Number#times",
+    "type": "instance method",
+    "path": "language/Number/prototype/times/"
+  },
+  "Number#toPaddedString": {
+    "name": "Number#toPaddedString",
+    "type": "instance method",
+    "path": "language/Number/prototype/toPaddedString/"
+  },
+  "Number#abs": {
+    "name": "Number#abs",
+    "type": "instance method",
+    "path": "language/Number/prototype/abs/"
+  },
+  "Number#round": {
+    "name": "Number#round",
+    "type": "instance method",
+    "path": "language/Number/prototype/round/"
+  },
+  "Number#ceil": {
+    "name": "Number#ceil",
+    "type": "instance method",
+    "path": "language/Number/prototype/ceil/"
+  },
+  "Number#floor": {
+    "name": "Number#floor",
+    "type": "instance method",
+    "path": "language/Number/prototype/floor/"
+  },
+  "Object": {
+    "name": "Object",
+    "type": "class",
+    "path": "language/Object/"
+  },
+  "Object.extend": {
+    "name": "Object.extend",
+    "type": "class method",
+    "path": "language/Object/extend/"
+  },
+  "Object.inspect": {
+    "name": "Object.inspect",
+    "type": "class method",
+    "path": "language/Object/inspect/"
+  },
+  "Object.toJSON": {
+    "name": "Object.toJSON",
+    "type": "class method",
+    "path": "language/Object/toJSON/"
+  },
+  "Object.toQueryString": {
+    "name": "Object.toQueryString",
+    "type": "class method",
+    "path": "language/Object/toQueryString/"
+  },
+  "Object.toHTML": {
+    "name": "Object.toHTML",
+    "type": "class method",
+    "path": "language/Object/toHTML/"
+  },
+  "Object.keys": {
+    "name": "Object.keys",
+    "type": "class method",
+    "path": "language/Object/keys/"
+  },
+  "Object.values": {
+    "name": "Object.values",
+    "type": "class method",
+    "path": "language/Object/values/"
+  },
+  "Object.clone": {
+    "name": "Object.clone",
+    "type": "class method",
+    "path": "language/Object/clone/"
+  },
+  "Object.isElement": {
+    "name": "Object.isElement",
+    "type": "class method",
+    "path": "language/Object/isElement/"
+  },
+  "Object.isArray": {
+    "name": "Object.isArray",
+    "type": "class method",
+    "path": "language/Object/isArray/"
+  },
+  "Object.isHash": {
+    "name": "Object.isHash",
+    "type": "class method",
+    "path": "language/Object/isHash/"
+  },
+  "Object.isFunction": {
+    "name": "Object.isFunction",
+    "type": "class method",
+    "path": "language/Object/isFunction/"
+  },
+  "Object.isString": {
+    "name": "Object.isString",
+    "type": "class method",
+    "path": "language/Object/isString/"
+  },
+  "Object.isNumber": {
+    "name": "Object.isNumber",
+    "type": "class method",
+    "path": "language/Object/isNumber/"
+  },
+  "Object.isDate": {
+    "name": "Object.isDate",
+    "type": "class method",
+    "path": "language/Object/isDate/"
+  },
+  "Object.isUndefined": {
+    "name": "Object.isUndefined",
+    "type": "class method",
+    "path": "language/Object/isUndefined/"
+  },
+  "PeriodicalExecuter": {
+    "name": "PeriodicalExecuter",
+    "type": "class",
+    "path": "language/PeriodicalExecuter/"
+  },
+  "new PeriodicalExecuter": {
+    "name": "new PeriodicalExecuter",
+    "type": "constructor",
+    "path": "language/PeriodicalExecuter/new/"
+  },
+  "PeriodicalExecuter#stop": {
+    "name": "PeriodicalExecuter#stop",
+    "type": "instance method",
+    "path": "language/PeriodicalExecuter/prototype/stop/"
+  },
+  "ObjectRange": {
+    "name": "ObjectRange",
+    "type": "class",
+    "path": "language/ObjectRange/"
+  },
+  "$R": {
+    "name": "$R",
+    "type": "utility",
+    "path": "language/dollar-R/"
+  },
+  "new ObjectRange": {
+    "name": "new ObjectRange",
+    "type": "constructor",
+    "path": "language/ObjectRange/new/"
+  },
+  "ObjectRange#start": {
+    "name": "ObjectRange#start",
+    "type": "instance property",
+    "path": "language/ObjectRange/prototype/start/"
+  },
+  "ObjectRange#end": {
+    "name": "ObjectRange#end",
+    "type": "instance property",
+    "path": "language/ObjectRange/prototype/end/"
+  },
+  "ObjectRange#include": {
+    "name": "ObjectRange#include",
+    "type": "instance method",
+    "path": "language/ObjectRange/prototype/include/"
+  },
+  "RegExp": {
+    "name": "RegExp",
+    "type": "class",
+    "path": "language/RegExp/"
+  },
+  "RegExp#match": {
+    "name": "RegExp#match",
+    "type": "instance method",
+    "path": "language/RegExp/prototype/match/"
+  },
+  "RegExp.escape": {
+    "name": "RegExp.escape",
+    "type": "class method",
+    "path": "language/RegExp/escape/"
+  },
+  "String": {
+    "name": "String",
+    "type": "class",
+    "path": "language/String/"
+  },
+  "String.interpret": {
+    "name": "String.interpret",
+    "type": "class method",
+    "path": "language/String/interpret/"
+  },
+  "String#gsub": {
+    "name": "String#gsub",
+    "type": "instance method",
+    "path": "language/String/prototype/gsub/"
+  },
+  "String#sub": {
+    "name": "String#sub",
+    "type": "instance method",
+    "path": "language/String/prototype/sub/"
+  },
+  "String#scan": {
+    "name": "String#scan",
+    "type": "instance method",
+    "path": "language/String/prototype/scan/"
+  },
+  "String#truncate": {
+    "name": "String#truncate",
+    "type": "instance method",
+    "path": "language/String/prototype/truncate/"
+  },
+  "String#strip": {
+    "name": "String#strip",
+    "type": "instance method",
+    "path": "language/String/prototype/strip/"
+  },
+  "String#stripTags": {
+    "name": "String#stripTags",
+    "type": "instance method",
+    "path": "language/String/prototype/stripTags/"
+  },
+  "String#stripScripts": {
+    "name": "String#stripScripts",
+    "type": "instance method",
+    "path": "language/String/prototype/stripScripts/"
+  },
+  "String#extractScripts": {
+    "name": "String#extractScripts",
+    "type": "instance method",
+    "path": "language/String/prototype/extractScripts/"
+  },
+  "String#evalScripts": {
+    "name": "String#evalScripts",
+    "type": "instance method",
+    "path": "language/String/prototype/evalScripts/"
+  },
+  "String#escapeHTML": {
+    "name": "String#escapeHTML",
+    "type": "instance method",
+    "path": "language/String/prototype/escapeHTML/"
+  },
+  "String#unescapeHTML": {
+    "name": "String#unescapeHTML",
+    "type": "instance method",
+    "path": "language/String/prototype/unescapeHTML/"
+  },
+  "String#parseQuery": {
+    "name": "String#parseQuery",
+    "type": "instance method",
+    "path": "language/String/prototype/parseQuery/"
+  },
+  "String#toQueryParams": {
+    "name": "String#toQueryParams",
+    "type": "instance method",
+    "path": "language/String/prototype/toQueryParams/"
+  },
+  "String#toArray": {
+    "name": "String#toArray",
+    "type": "instance method",
+    "path": "language/String/prototype/toArray/"
+  },
+  "String#succ": {
+    "name": "String#succ",
+    "type": "instance method",
+    "path": "language/String/prototype/succ/"
+  },
+  "String#times": {
+    "name": "String#times",
+    "type": "instance method",
+    "path": "language/String/prototype/times/"
+  },
+  "String#camelize": {
+    "name": "String#camelize",
+    "type": "instance method",
+    "path": "language/String/prototype/camelize/"
+  },
+  "String#capitalize": {
+    "name": "String#capitalize",
+    "type": "instance method",
+    "path": "language/String/prototype/capitalize/"
+  },
+  "String#underscore": {
+    "name": "String#underscore",
+    "type": "instance method",
+    "path": "language/String/prototype/underscore/"
+  },
+  "String#dasherize": {
+    "name": "String#dasherize",
+    "type": "instance method",
+    "path": "language/String/prototype/dasherize/"
+  },
+  "String#inspect": {
+    "name": "String#inspect",
+    "type": "instance method",
+    "path": "language/String/prototype/inspect/"
+  },
+  "String#unfilterJSON": {
+    "name": "String#unfilterJSON",
+    "type": "instance method",
+    "path": "language/String/prototype/unfilterJSON/"
+  },
+  "String#isJSON": {
+    "name": "String#isJSON",
+    "type": "instance method",
+    "path": "language/String/prototype/isJSON/"
+  },
+  "String#evalJSON": {
+    "name": "String#evalJSON",
+    "type": "instance method",
+    "path": "language/String/prototype/evalJSON/"
+  },
+  "String#include": {
+    "name": "String#include",
+    "type": "instance method",
+    "path": "language/String/prototype/include/"
+  },
+  "String#startsWith": {
+    "name": "String#startsWith",
+    "type": "instance method",
+    "path": "language/String/prototype/startsWith/"
+  },
+  "String#endsWith": {
+    "name": "String#endsWith",
+    "type": "instance method",
+    "path": "language/String/prototype/endsWith/"
+  },
+  "String#empty": {
+    "name": "String#empty",
+    "type": "instance method",
+    "path": "language/String/prototype/empty/"
+  },
+  "String#blank": {
+    "name": "String#blank",
+    "type": "instance method",
+    "path": "language/String/prototype/blank/"
+  },
+  "String#interpolate": {
+    "name": "String#interpolate",
+    "type": "instance method",
+    "path": "language/String/prototype/interpolate/"
+  },
+  "Template": {
+    "name": "Template",
+    "type": "class",
+    "path": "language/Template/"
+  },
+  "new Template": {
+    "name": "new Template",
+    "type": "constructor",
+    "path": "language/Template/new/"
+  },
+  "Template#evaluate": {
+    "name": "Template#evaluate",
+    "type": "instance method",
+    "path": "language/Template/prototype/evaluate/"
+  },
+  "Language section": {
+    "name": "Language section",
+    "type": "section",
+    "path": "language/"
+  },
+  "Try": {
+    "name": "Try",
+    "type": "namespace",
+    "path": "language/Try/"
+  },
+  "Try.these": {
+    "name": "Try.these",
+    "type": "class method",
+    "path": "language/Try/these/"
+  },
+  "Prototype": {
+    "name": "Prototype",
+    "type": "namespace",
+    "path": "Prototype/"
+  },
+  "Prototype.Version": {
+    "name": "Prototype.Version",
+    "type": "class property",
+    "path": "Prototype/Version/"
+  },
+  "Prototype.Browser": {
+    "name": "Prototype.Browser",
+    "type": "namespace",
+    "path": "Prototype/Browser/"
+  },
+  "Prototype.BrowserFeatures": {
+    "name": "Prototype.BrowserFeatures",
+    "type": "namespace",
+    "path": "Prototype/BrowserFeatures/"
+  },
+  "Prototype.BrowserFeatures.XPath": {
+    "name": "Prototype.BrowserFeatures.XPath",
+    "type": "class property",
+    "path": "Prototype/BrowserFeatures/XPath/"
+  },
+  "Prototype.BrowserFeatures.SelectorsAPI": {
+    "name": "Prototype.BrowserFeatures.SelectorsAPI",
+    "type": "class property",
+    "path": "Prototype/BrowserFeatures/SelectorsAPI/"
+  },
+  "Prototype.BrowserFeatures.ElementExtensions": {
+    "name": "Prototype.BrowserFeatures.ElementExtensions",
+    "type": "class property",
+    "path": "Prototype/BrowserFeatures/ElementExtensions/"
+  },
+  "Prototype.emptyFunction": {
+    "name": "Prototype.emptyFunction",
+    "type": "class method",
+    "path": "Prototype/emptyFunction/"
+  },
+  "Prototype.K": {
+    "name": "Prototype.K",
+    "type": "class method",
+    "path": "Prototype/K/"
+  }
+}
