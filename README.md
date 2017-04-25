@@ -2,6 +2,11 @@
 
 Search usage of prototype.js in your codes.
 
+We can found the code that use [Prototype.js](http://prototypejs.org/ "Prototype").
+
+This tool is based on [grasp](http://www.graspjs.com/ "grasp") that can search the code by AST.
+It can search the code exactly.
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
@@ -10,7 +15,29 @@ Install with [npm](https://www.npmjs.com/):
 
 ## Usage
 
-- [ ] Write usage instructions
+    Usage
+      $ search-prototype.js <file-path>
+
+    Examples
+      $ search-prototype.js ./your.js
+      
+## Example
+
+```
+> search-prototype.j test/search-prototype-test.js
+
+# Found "call[callee=#$]"
+2:    var item = $('sample');
+# Found "call[callee=#$]"
+7:$("test");
+# Found "__.getHeight(__)"
+3:    var ret = Element.getHeight(item);
+# Found "Element.getHeight(__)"
+3:    var ret = Element.getHeight(item);
+# Found "var __ = Class.create"
+9:var cc = Class.create;
+
+```
 
 ## Changelog
 
