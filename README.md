@@ -1,4 +1,4 @@
-# search-prototype.js
+# search-prototype.js [![Build Status](https://travis-ci.org/azu/search-prototype.js.svg?branch=master)](https://travis-ci.org/azu/search-prototype.js)
 
 Search usage of prototype.js in your codes.
 
