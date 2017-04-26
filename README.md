@@ -7,6 +7,8 @@ We can found the code that use [Prototype.js](http://prototypejs.org/ "Prototype
 This tool is based on [grasp](http://www.graspjs.com/ "grasp") that can search the code by AST.
 It can search the code exactly.
 
+[![gif](https://media.giphy.com/media/l4FGDki3jhUbhGVSE/giphy.gif)](https://giphy.com/gifs/l4FGDki3jhUbhGVSE)
+
 ## Search prototype.js API
 
 This tool use [prototype.js's API reference](http://api.prototypejs.org/) as search index.
