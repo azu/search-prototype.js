@@ -36,7 +36,6 @@ const runGrasp = ({ queryType, query, filePath }, callback) => {
 };
 //
 module.exports = function searchPrototypeJS(filePath) {
-    filePath = path.resolve(process.cwd(), filePath);
     searchIndex.forEach(result => {
         const eQueries = result.eQueries || [];
         eQueries.forEach(query => {
